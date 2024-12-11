@@ -64,6 +64,8 @@ int main()
 			}
 			break;
 		case 4:
+			system("cls");
+			system("color 04");
 			cout << "Exit..." << endl;
 			exit(1);
 			break;
